@@ -1,6 +1,7 @@
 # Курс "Нейронные сети и глубокое обучение" Самарского университета  
 Лектор [Артем Владимирович Никоноров](https://ssau.ru/staff/66320001-nikonorov-artem-vladimirovich), д.т.н., artniko@gmail.com  
 Ассистенты: [Макаров Андрей Романович](https://ssau.ru/staff/702140902-makarov-andrey-romanovich/edu)
+Ульянов Дмитрий Иванович - neulyanodmitry@gmail.com
 
             
 
