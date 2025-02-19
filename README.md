@@ -14,7 +14,7 @@ _Курс разработан Центром интеллектуальной �
 ✉️ makarov.ar[at]ssau.ru
 
 [Ульянов Дмитрий Иванович](https://ssau.ru/staff/441332316-ulyanov-dmitriy-ivanovich/edu)\
-✉️ ulyanov.di[at]ssau.ru
+✉️ neulyanodmitry[at]gmail.com
            
 ### Ссылки на материалы курса
 [Телеграмм группа](https://t.me/+xfiOdqTGoLY2YzAy)
