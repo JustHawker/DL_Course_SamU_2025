@@ -1,4 +1,4 @@
-# Курс "Глубокое обучение в задачах технического зрения и предиктивной диагностики" Самарского университета  
+# Курс "Нейронные сети и глубокое обучение" Самарского университета  
 
 _Курс разработан Центром интеллектуальной мобильности многофункциональных беспилотных авиационных систем (БАС) при поддержке Аналитизческим Центром при Правительстве РФ._
 
@@ -14,17 +14,18 @@ _Курс разработан Центром интеллектуальной �
 ✉️ makarov.ar[at]ssau.ru
 
 [Ульянов Дмитрий Иванович](https://ssau.ru/staff/441332316-ulyanov-dmitriy-ivanovich/edu)\
-✉️ neulyanodmitry[at]gmail.com
+✉️ ulyanov.di[at]ssau.ru
            
 ### Ссылки на материалы курса
-[Телеграмм группа](https://t.me/+xfiOdqTGoLY2YzAy)
+[Телеграмм группа](https://t.me/+KGCIPP64o3UzZGIy)
 
-[Сводная таблица](https://docs.google.com/spreadsheets/d/1Zd9Q-EYVqNU6ToEELEzlcBIz-SAPjwi8hbtwS3NAyNc/edit?gid=852261837#gid=852261837)
+[Сводная таблица](https://docs.google.com/spreadsheets/d/1AsgaY9G7WJBmIYPUnizUZ1jqS6_xcWsjq2msHxLFZ6A/edit?usp=sharing)
 
 **Материалы за прошлые годы:**
 * [2020-21](https://github.com/da0c/DL_Course_SamU)
 * [2022-23](https://github.com/kvvik/DL_Course_SamU)
 * [2023-24](https://github.com/andremakar/DL_Course_SamU)
+* [2024-25](https://github.com/JustHawker/DL_Course_SamU_2025/tree/%D0%92%D0%B5%D1%81%D0%BD%D0%B0-2025)
 
 ### Использованные при разработке курсы
 Курс основывается на предыдущих более обзорных лекциях и туториалах по глубокому обучению и его приложениях, в частности, вот [небольшая обзорная лекция](https://youtu.be/Gpq1PFUee88) в Кавказском Математическом Центре. Также во многом этот курс является адаптацией известнейшего курса http://cs231n.stanford.edu/  
