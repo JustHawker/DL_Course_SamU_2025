@@ -182,7 +182,7 @@ _Курс разработан Центром интеллектуальной �
 
 ## План лабораторных работ
 
-Списки групп и статус выполнения лабораторных работ можно найти в [гугл-таблице](https://docs.google.com/spreadsheets/d/1Zd9Q-EYVqNU6ToEELEzlcBIz-SAPjwi8hbtwS3NAyNc/edit?gid=852261837#gid=852261837). 
+Списки групп и статус выполнения лабораторных работ можно найти в [таблице](https://docs.google.com/spreadsheets/d/1AsgaY9G7WJBmIYPUnizUZ1jqS6_xcWsjq2msHxLFZ6A/edit?usp=sharing). 
 
 ## Литература и дополнительные источники для самостоятельного изучения    
 
