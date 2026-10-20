@@ -15,11 +15,7 @@ _Курс разработан Центром интеллектуальной �
 
 [Ульянов Дмитрий Иванович](https://ssau.ru/staff/441332316-ulyanov-dmitriy-ivanovich/edu)\
 ✉️ neulyanodmitry[at]gmail.com
-           
-### Ссылки на материалы курса
-[Телеграмм группа](https://t.me/+xfiOdqTGoLY2YzAy)
 
-[Сводная таблица](https://docs.google.com/spreadsheets/d/1Zd9Q-EYVqNU6ToEELEzlcBIz-SAPjwi8hbtwS3NAyNc/edit?gid=852261837#gid=852261837)
 
 **Материалы за прошлые годы:**
 * [2020-21](https://github.com/da0c/DL_Course_SamU)
